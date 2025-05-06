@@ -20,7 +20,7 @@ function App() {
       <h1 style={{ color: "#2c3e50" }}>Muditha Sasanka Kodikara</h1>
       <p><strong>Address:</strong> No:88, Guruwala, Dompe.</p>
       <p><strong>Email:</strong> muditha@example.com</p>
-      <p><strong>Phone:</strong> +94XXXXXXXXX</p>
+      <p><strong>Phone:</strong> +9411 1234567</p>
 
       <h2 style={{ marginTop: "30px", color: "#34495e" }}>Experience / Projects</h2>
       <ul>

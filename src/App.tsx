@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h1 style={{ color: "#2c3e50" }}>Muditha Sasanka Kodikara</h1>
+      <h1 style={{ color: "#2c3e50" }}>Muditha Sasanka</h1>
       <p><strong>Address:</strong> No:88, Guruwala, Dompe.</p>
       <p><strong>Email:</strong> muditha@gmail.com</p>
       <p><strong>Phone:</strong> +9411 1234567</p>

@@ -13,7 +13,7 @@ RUN npm install
 # Copy the rest of the application files
 COPY . .
 
-# Expose the port your app will run on
+# Expose the port your app will run on if it is changed then change
 EXPOSE 5173
 
 # Start the application
